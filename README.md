@@ -20,7 +20,7 @@ Check the original API doc at: https://pipedrive.readme.io/
 Add this line to your application's Gemfile:
 
 ```ruby
-gem "pipedrive-connect", github: "getonbrd/pipedrive-connect"
+gem "pipedrive-connect", github: "vpbxlgb/pipedrive-connect"
 ```
 
 then execute:
